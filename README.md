@@ -1,2 +1,3 @@
 # Hamburgueria
- Trabalho de HTML para uma hamburgueria
+Este é um trabalho que está sendo feito utilizando as linguagens HTML, CSS e JavaScript.
+
